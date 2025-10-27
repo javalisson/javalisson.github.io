@@ -50,7 +50,7 @@ Atuação na divisão global de talentos da BairesDev, avaliando e orientando en
 ### **Engenheiro Front-End Sênior (Vue.js)**
 
 **Rauxa / Formerly Known As (via BairesDev)** – Cliente: **Vans / VF Corporation**   
-Jun 2021 – Set 2022   
+Mar 2019 – Set 2022   
 *Remoto*
 
 Atuação em iniciativas digitais estratégicas para a marca **Vans**, desenvolvendo aplicações performáticas e acessíveis com **Vue.js** em diversos mercados internacionais.
@@ -69,7 +69,7 @@ Atuação em iniciativas digitais estratégicas para a marca **Vans**, desenvolv
 ### **Consultor de Sistemas de Manufatura**
 
 **Konitech & Assurance IT (freelance)** – Clientes: CMPC, Ardagh, Citrosuco   
-Jan 2019 – Abr 2025 (projetos não-contínuos)  
+Jul 2019 – Jul 2025 (projetos não-contínuos)  
 *Remoto / Híbrido*
 
 Projetos de consultoria voltados a **MES com SAP MII** e integração de chão de fábrica para indústrias de alimentos, embalagens e celulose.
@@ -83,10 +83,10 @@ Projetos de consultoria voltados a **MES com SAP MII** e integração de chão d
 
 ---
 
-### **Analista de Sistemas – Manufatura**
+### **Analista de Negócios – Manufatura**
 
 **Klabin**   
-Jan 2014 – Dez 2016   
+Jan 2014 – Jan 2016   
 *Presencial – Telêmaco Borba*
 
 Parte da equipe de tecnologia da Klabin, atuando na **integração de sistemas de produção** com SAP MII e dispositivos de chão de fábrica.

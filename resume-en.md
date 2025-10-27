@@ -51,7 +51,7 @@ Acting within BairesDev’s global talent division, I evaluate and mentor softwa
 ### **Senior Front-End Engineer (Vue.js)**
 
 **Rauxa / Formerly Known As (via BairesDev)** – Client: **Vans** **/ VF Corporation**  
-Jun 2021 – Sep 2022   
+Mar 2019 – Sep 2022   
 *Remote*
 
 Worked on high-impact digital initiatives for **Vans**, a globally recognized footwear and apparel brand. Delivered accessible, performant **Vue.js-based applications** across multiple international markets.
@@ -70,7 +70,7 @@ Worked on high-impact digital initiatives for **Vans**, a globally recognized fo
 ### **Manufacturing Systems Consultant**
 
 **Konitech & Assurance IT (freelance)** – Clients: CMPC, Ardagh, Citrosuco   
-Jan 2019 – Apr 2025 (project-based)   
+Jul 2019 – Jul 2025 (project-based)   
 *Remote / Hybrid*
 
 Delivered consulting projects focused on **SAP MII-based MES** (Manufacturing Execution Systems) and shop-floor integration for clients in the food & beverage, packaging, and pulp & paper sectors.
@@ -87,7 +87,7 @@ Delivered consulting projects focused on **SAP MII-based MES** (Manufacturing Ex
 ### **Business Analyst – Manufacturing Systems**
 
 **Klabin**   
-Jan 2014 – Dec 2016   
+Jan 2014 – Jan 2016   
 *On-site – Telêmaco Borba*
 
 Worked as part of Klabin’s internal technology team, supporting **production systems integration** using SAP MII and shop-floor technologies.
